@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "986158881089",
+    "firebase_url": "https://give-me-delivery-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "give-me-delivery",
+    "storage_bucket": "give-me-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986158881089:android:3371a005e30ed2cd4429c0",
+        "android_client_info": {
+          "package_name": "com.delivery.stack_food_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp8cMgAMex2_f4PWyVggC1uNT0WHsDsTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986158881089:android:86cdb4db0953173d4429c0",
+        "android_client_info": {
+          "package_name": "com.restaurant.stack_food_restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp8cMgAMex2_f4PWyVggC1uNT0WHsDsTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986158881089:android:a90e5f14a8c332dc4429c0",
+        "android_client_info": {
+          "package_name": "com.user.stack_food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp8cMgAMex2_f4PWyVggC1uNT0WHsDsTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
